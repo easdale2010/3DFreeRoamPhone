@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010 Express for Windows Phone
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3dtest", "3dtest\3dtest\3dtest.csproj", "{960607DF-D626-4902-8C3C-4815E366F6C6}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "3dtestContent", "3dtest\3dtestContent\3dtestContent.contentproj", "{D9033241-5AD6-47D8-B50F-2130C52B880E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{960607DF-D626-4902-8C3C-4815E366F6C6}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{960607DF-D626-4902-8C3C-4815E366F6C6}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{960607DF-D626-4902-8C3C-4815E366F6C6}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{960607DF-D626-4902-8C3C-4815E366F6C6}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{960607DF-D626-4902-8C3C-4815E366F6C6}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{960607DF-D626-4902-8C3C-4815E366F6C6}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{D9033241-5AD6-47D8-B50F-2130C52B880E}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{D9033241-5AD6-47D8-B50F-2130C52B880E}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

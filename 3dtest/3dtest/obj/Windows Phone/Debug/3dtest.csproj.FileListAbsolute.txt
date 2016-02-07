@@ -1,0 +1,511 @@
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\3dtest.dll
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\3dtest.pdb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\obj\Windows Phone\Debug\3dtest.dll
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\obj\Windows Phone\Debug\3dtest.pdb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\AppManifest.xaml
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\obj\Windows Phone\Debug\WMAppManifest.xml.g
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\3dtest.xap
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\obj\Windows Phone\Debug\XapCacheFile.xml
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\quartz4.xnb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\Background for Menus.xnb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\bark2.xnb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\Exit-Normal.xnb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\Exit-Selected.xnb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\High-Score-Normal.xnb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\High-Score-Selected.xnb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\Options-Normal.xnb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\Options-Selected.xnb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\rockie.xnb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\Start-Normal.xnb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\Start-Selected.xnb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\X-Games-Cursor-Highlight.xnb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\X-Games-Cursor.xnb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\lamppost.xnb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\sground.xnb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\tree.xnb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\ship.xnb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\stars.xnb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\tank.xnb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\tiefighter.xnb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\rockie_0.xnb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\bark2_0.xnb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatiefront.xnb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatierear.xnb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatietop.xnb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatierear_0.xnb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatiefront_0.xnb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatietop_0.xnb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\down.xnb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\left.xnb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\right.xnb
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\up.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\quartz4.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\Background for Menus.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\bark2.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\Exit-Normal.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\Exit-Selected.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\High-Score-Normal.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\High-Score-Selected.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\Options-Normal.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\Options-Selected.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\rockie.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\Start-Normal.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\Start-Selected.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\X-Games-Cursor-Highlight.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\X-Games-Cursor.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatiefront.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatierear.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatietop.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\down.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\left.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\right.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\up.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\lamppost.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\sground.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\tree.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\tiefighter.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\ship.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\stars.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\tank.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\rockie_0.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\bark2_0.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatierear_0.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatiefront_0.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatietop_0.xnb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\3dtest.dll
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\3dtest.pdb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\obj\Windows Phone\Debug\3dtest.dll
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\obj\Windows Phone\Debug\3dtest.pdb
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\AppManifest.xaml
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\obj\Windows Phone\Debug\WMAppManifest.xml.g
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\obj\Windows Phone\Debug\WMAppManifest.xml
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\bin\Windows Phone\Debug\3dtest.xap
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtest\obj\Windows Phone\Debug\XapCacheFile.xml
+E:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\quartz4.xnb
+E:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Background for Menus.xnb
+E:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\bark2.xnb
+E:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Exit-Normal.xnb
+E:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Exit-Selected.xnb
+E:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\High-Score-Normal.xnb
+E:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\High-Score-Selected.xnb
+E:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Options-Normal.xnb
+E:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Options-Selected.xnb
+E:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\rockie.xnb
+E:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Start-Normal.xnb
+E:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Start-Selected.xnb
+E:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\X-Games-Cursor-Highlight.xnb
+E:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\X-Games-Cursor.xnb
+E:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatiefront.xnb
+E:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatierear.xnb
+E:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatietop.xnb
+E:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\down.xnb
+E:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\left.xnb
+E:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\right.xnb
+E:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\up.xnb
+E:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\lamppost.xnb
+E:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\sground.xnb
+E:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\tree.xnb
+E:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\tiefighter.xnb
+E:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\ship.xnb
+E:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\stars.xnb
+E:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\tank.xnb
+E:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\rockie_0.xnb
+E:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\bark2_0.xnb
+E:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatierear_0.xnb
+E:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatiefront_0.xnb
+E:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatietop_0.xnb
+E:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\3dtest.dll
+E:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\3dtest.pdb
+E:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+E:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\3dtest.dll
+E:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\3dtest.pdb
+E:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\AppManifest.xaml
+E:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\WMAppManifest.xml.g
+E:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\WMAppManifest.xml
+E:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\3dtest.xap
+E:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\XapCacheFile.xml
+D:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\quartz4.xnb
+D:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Background for Menus.xnb
+D:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\bark2.xnb
+D:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Exit-Normal.xnb
+D:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Exit-Selected.xnb
+D:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\High-Score-Normal.xnb
+D:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\High-Score-Selected.xnb
+D:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Options-Normal.xnb
+D:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Options-Selected.xnb
+D:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\rockie.xnb
+D:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Start-Normal.xnb
+D:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Start-Selected.xnb
+D:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\X-Games-Cursor-Highlight.xnb
+D:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\X-Games-Cursor.xnb
+D:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatiefront.xnb
+D:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatierear.xnb
+D:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatietop.xnb
+D:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\down.xnb
+D:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\left.xnb
+D:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\right.xnb
+D:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\up.xnb
+D:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\lamppost.xnb
+D:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\sground.xnb
+D:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\tree.xnb
+D:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\tiefighter.xnb
+D:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\ship.xnb
+D:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\stars.xnb
+D:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\tank.xnb
+D:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\rockie_0.xnb
+D:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\bark2_0.xnb
+D:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatierear_0.xnb
+D:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatiefront_0.xnb
+D:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatietop_0.xnb
+D:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\3dtest.dll
+D:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\3dtest.pdb
+D:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+D:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\3dtest.dll
+D:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\3dtest.pdb
+D:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\AppManifest.xaml
+D:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\WMAppManifest.xml.g
+D:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\WMAppManifest.xml
+D:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\3dtest.xap
+D:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\XapCacheFile.xml
+K:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\quartz4.xnb
+K:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Background for Menus.xnb
+K:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\bark2.xnb
+K:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Exit-Normal.xnb
+K:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Exit-Selected.xnb
+K:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\High-Score-Normal.xnb
+K:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\High-Score-Selected.xnb
+K:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Options-Normal.xnb
+K:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Options-Selected.xnb
+K:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\rockie.xnb
+K:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Start-Normal.xnb
+K:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Start-Selected.xnb
+K:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\X-Games-Cursor-Highlight.xnb
+K:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\X-Games-Cursor.xnb
+K:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatiefront.xnb
+K:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatierear.xnb
+K:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatietop.xnb
+K:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\down.xnb
+K:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\left.xnb
+K:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\right.xnb
+K:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\up.xnb
+K:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\lamppost.xnb
+K:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\sground.xnb
+K:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\tree.xnb
+K:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\tiefighter.xnb
+K:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\ship.xnb
+K:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\stars.xnb
+K:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\tank.xnb
+K:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\rockie_0.xnb
+K:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\bark2_0.xnb
+K:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatierear_0.xnb
+K:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatiefront_0.xnb
+K:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatietop_0.xnb
+K:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\3dtest.dll
+K:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\3dtest.pdb
+K:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+K:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+K:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\3dtest.dll
+K:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\3dtest.pdb
+K:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\AppManifest.xaml
+K:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\WMAppManifest.xml.g
+K:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\WMAppManifest.xml
+K:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\3dtest.xap
+K:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\XapCacheFile.xml
+K:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+K:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+K:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\quartz4.xnb
+K:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Background for Menus.xnb
+K:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\bark2.xnb
+K:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Exit-Normal.xnb
+K:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Exit-Selected.xnb
+K:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\High-Score-Normal.xnb
+K:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\High-Score-Selected.xnb
+K:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Options-Normal.xnb
+K:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Options-Selected.xnb
+K:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\rockie.xnb
+K:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Start-Normal.xnb
+K:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Start-Selected.xnb
+K:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\X-Games-Cursor-Highlight.xnb
+K:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\X-Games-Cursor.xnb
+K:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatiefront.xnb
+K:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatierear.xnb
+K:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatietop.xnb
+K:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\down.xnb
+K:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\left.xnb
+K:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\right.xnb
+K:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\up.xnb
+K:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\lamppost.xnb
+K:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\sground.xnb
+K:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\tree.xnb
+K:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\tiefighter.xnb
+K:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\ship.xnb
+K:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\stars.xnb
+K:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\tank.xnb
+K:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\rockie_0.xnb
+K:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\bark2_0.xnb
+K:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatierear_0.xnb
+K:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatiefront_0.xnb
+K:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatietop_0.xnb
+K:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\AppManifest.xaml
+K:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\WMAppManifest.xml.g
+K:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\WMAppManifest.xml
+K:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\XapCacheFile.xml
+E:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\quartz4.xnb
+E:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Background for Menus.xnb
+E:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\bark2.xnb
+E:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Exit-Normal.xnb
+E:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Exit-Selected.xnb
+E:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\High-Score-Normal.xnb
+E:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\High-Score-Selected.xnb
+E:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Options-Normal.xnb
+E:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Options-Selected.xnb
+E:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\rockie.xnb
+E:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Start-Normal.xnb
+E:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Start-Selected.xnb
+E:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\X-Games-Cursor-Highlight.xnb
+E:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\X-Games-Cursor.xnb
+E:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatiefront.xnb
+E:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatierear.xnb
+E:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatietop.xnb
+E:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\down.xnb
+E:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\left.xnb
+E:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\right.xnb
+E:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\up.xnb
+E:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\lamppost.xnb
+E:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\sground.xnb
+E:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\tree.xnb
+E:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\tiefighter.xnb
+E:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\ship.xnb
+E:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\stars.xnb
+E:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\tank.xnb
+E:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\rockie_0.xnb
+E:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\bark2_0.xnb
+E:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatierear_0.xnb
+E:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatiefront_0.xnb
+E:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatietop_0.xnb
+E:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\3dtest.dll
+E:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\3dtest.pdb
+E:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+E:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\3dtest.dll
+E:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\3dtest.pdb
+E:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\AppManifest.xaml
+E:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\WMAppManifest.xml.g
+E:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\WMAppManifest.xml
+E:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\3dtest.xap
+E:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\XapCacheFile.xml
+K:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\exit.xnb
+K:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\highscore.xnb
+K:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\options.xnb
+K:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\player1.xnb
+K:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\3D Free Roam.dll
+K:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\3D Free Roam.pdb
+K:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\3D Free Roam.dll
+K:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\3D Free Roam.pdb
+K:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\3D Free Roam.xap
+E:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\quartz4.xnb
+E:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Background for Menus.xnb
+E:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\bark2.xnb
+E:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Exit-Normal.xnb
+E:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Exit-Selected.xnb
+E:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\High-Score-Normal.xnb
+E:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\High-Score-Selected.xnb
+E:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Options-Normal.xnb
+E:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Options-Selected.xnb
+E:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\rockie.xnb
+E:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Start-Normal.xnb
+E:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Start-Selected.xnb
+E:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\X-Games-Cursor-Highlight.xnb
+E:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\X-Games-Cursor.xnb
+E:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatiefront.xnb
+E:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatierear.xnb
+E:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatietop.xnb
+E:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\down.xnb
+E:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\left.xnb
+E:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\right.xnb
+E:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\up.xnb
+E:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\exit.xnb
+E:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\highscore.xnb
+E:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\options.xnb
+E:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\player1.xnb
+E:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\lamppost.xnb
+E:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\sground.xnb
+E:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\tree.xnb
+E:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\tiefighter.xnb
+E:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\ship.xnb
+E:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\stars.xnb
+E:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\tank.xnb
+E:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\rockie_0.xnb
+E:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\bark2_0.xnb
+E:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatierear_0.xnb
+E:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatiefront_0.xnb
+E:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatietop_0.xnb
+E:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\3D Free Roam.dll
+E:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\3D Free Roam.pdb
+E:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+E:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\3D Free Roam.dll
+E:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\3D Free Roam.pdb
+E:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\AppManifest.xaml
+E:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\WMAppManifest.xml.g
+E:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\WMAppManifest.xml
+E:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\3D Free Roam.xap
+E:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\XapCacheFile.xml
+G:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\quartz4.xnb
+G:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Background for Menus.xnb
+G:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\bark2.xnb
+G:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Exit-Normal.xnb
+G:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Exit-Selected.xnb
+G:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\High-Score-Normal.xnb
+G:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\High-Score-Selected.xnb
+G:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Options-Normal.xnb
+G:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Options-Selected.xnb
+G:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\rockie.xnb
+G:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Start-Normal.xnb
+G:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Start-Selected.xnb
+G:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\X-Games-Cursor-Highlight.xnb
+G:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\X-Games-Cursor.xnb
+G:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatiefront.xnb
+G:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatierear.xnb
+G:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatietop.xnb
+G:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\down.xnb
+G:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\left.xnb
+G:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\right.xnb
+G:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\up.xnb
+G:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\exit.xnb
+G:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\highscore.xnb
+G:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\options.xnb
+G:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\player1.xnb
+G:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\lamppost.xnb
+G:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\sground.xnb
+G:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\tree.xnb
+G:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\tiefighter.xnb
+G:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\ship.xnb
+G:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\stars.xnb
+G:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\tank.xnb
+G:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\rockie_0.xnb
+G:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\bark2_0.xnb
+G:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatierear_0.xnb
+G:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatiefront_0.xnb
+G:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatietop_0.xnb
+G:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\3D Free Roam.dll
+G:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\3D Free Roam.pdb
+G:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+G:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\3D Free Roam.dll
+G:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\3D Free Roam.pdb
+G:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\AppManifest.xaml
+G:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\WMAppManifest.xml.g
+G:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\WMAppManifest.xml
+G:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\3D Free Roam.xap
+G:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\XapCacheFile.xml
+\\Ws1013\student big files\GameDev\XNA\Examples\HND examples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\quartz4.xnb
+\\Ws1013\student big files\GameDev\XNA\Examples\HND examples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Background for Menus.xnb
+\\Ws1013\student big files\GameDev\XNA\Examples\HND examples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\bark2.xnb
+\\Ws1013\student big files\GameDev\XNA\Examples\HND examples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Exit-Normal.xnb
+\\Ws1013\student big files\GameDev\XNA\Examples\HND examples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Exit-Selected.xnb
+\\Ws1013\student big files\GameDev\XNA\Examples\HND examples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\High-Score-Normal.xnb
+\\Ws1013\student big files\GameDev\XNA\Examples\HND examples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\High-Score-Selected.xnb
+\\Ws1013\student big files\GameDev\XNA\Examples\HND examples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Options-Normal.xnb
+\\Ws1013\student big files\GameDev\XNA\Examples\HND examples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Options-Selected.xnb
+\\Ws1013\student big files\GameDev\XNA\Examples\HND examples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\rockie.xnb
+\\Ws1013\student big files\GameDev\XNA\Examples\HND examples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Start-Normal.xnb
+\\Ws1013\student big files\GameDev\XNA\Examples\HND examples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Start-Selected.xnb
+\\Ws1013\student big files\GameDev\XNA\Examples\HND examples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\X-Games-Cursor-Highlight.xnb
+\\Ws1013\student big files\GameDev\XNA\Examples\HND examples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\X-Games-Cursor.xnb
+\\Ws1013\student big files\GameDev\XNA\Examples\HND examples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatiefront.xnb
+\\Ws1013\student big files\GameDev\XNA\Examples\HND examples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatierear.xnb
+\\Ws1013\student big files\GameDev\XNA\Examples\HND examples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatietop.xnb
+\\Ws1013\student big files\GameDev\XNA\Examples\HND examples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\down.xnb
+\\Ws1013\student big files\GameDev\XNA\Examples\HND examples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\left.xnb
+\\Ws1013\student big files\GameDev\XNA\Examples\HND examples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\right.xnb
+\\Ws1013\student big files\GameDev\XNA\Examples\HND examples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\up.xnb
+\\Ws1013\student big files\GameDev\XNA\Examples\HND examples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\exit.xnb
+\\Ws1013\student big files\GameDev\XNA\Examples\HND examples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\highscore.xnb
+\\Ws1013\student big files\GameDev\XNA\Examples\HND examples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\options.xnb
+\\Ws1013\student big files\GameDev\XNA\Examples\HND examples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\player1.xnb
+\\Ws1013\student big files\GameDev\XNA\Examples\HND examples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\lamppost.xnb
+\\Ws1013\student big files\GameDev\XNA\Examples\HND examples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\sground.xnb
+\\Ws1013\student big files\GameDev\XNA\Examples\HND examples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\tree.xnb
+\\Ws1013\student big files\GameDev\XNA\Examples\HND examples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\tiefighter.xnb
+\\Ws1013\student big files\GameDev\XNA\Examples\HND examples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\ship.xnb
+\\Ws1013\student big files\GameDev\XNA\Examples\HND examples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\stars.xnb
+\\Ws1013\student big files\GameDev\XNA\Examples\HND examples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\tank.xnb
+\\Ws1013\student big files\GameDev\XNA\Examples\HND examples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\rockie_0.xnb
+\\Ws1013\student big files\GameDev\XNA\Examples\HND examples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\bark2_0.xnb
+\\Ws1013\student big files\GameDev\XNA\Examples\HND examples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatierear_0.xnb
+\\Ws1013\student big files\GameDev\XNA\Examples\HND examples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatiefront_0.xnb
+\\Ws1013\student big files\GameDev\XNA\Examples\HND examples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatietop_0.xnb
+\\Ws1013\student big files\GameDev\XNA\Examples\HND examples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\3D Free Roam.dll
+\\Ws1013\student big files\GameDev\XNA\Examples\HND examples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\3D Free Roam.pdb
+\\Ws1013\student big files\GameDev\XNA\Examples\HND examples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+\\Ws1013\student big files\GameDev\XNA\Examples\HND examples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\Ws1013\student big files\GameDev\XNA\Examples\HND examples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\3D Free Roam.dll
+\\Ws1013\student big files\GameDev\XNA\Examples\HND examples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\3D Free Roam.pdb
+\\Ws1013\student big files\GameDev\XNA\Examples\HND examples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\AppManifest.xaml
+\\Ws1013\student big files\GameDev\XNA\Examples\HND examples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\WMAppManifest.xml.g
+\\Ws1013\student big files\GameDev\XNA\Examples\HND examples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\WMAppManifest.xml
+\\Ws1013\student big files\GameDev\XNA\Examples\HND examples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\3D Free Roam.xap
+\\Ws1013\student big files\GameDev\XNA\Examples\HND examples\Windows Phone Examples\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\XapCacheFile.xml
+E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\quartz4.xnb
+E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Background for Menus.xnb
+E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\bark2.xnb
+E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Exit-Normal.xnb
+E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Exit-Selected.xnb
+E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\High-Score-Normal.xnb
+E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\High-Score-Selected.xnb
+E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Options-Normal.xnb
+E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Options-Selected.xnb
+E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\rockie.xnb
+E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Start-Normal.xnb
+E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Start-Selected.xnb
+E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\X-Games-Cursor-Highlight.xnb
+E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\X-Games-Cursor.xnb
+E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatiefront.xnb
+E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatierear.xnb
+E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatietop.xnb
+E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\down.xnb
+E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\left.xnb
+E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\right.xnb
+E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\up.xnb
+E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\exit.xnb
+E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\highscore.xnb
+E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\options.xnb
+E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\player1.xnb
+E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\lamppost.xnb
+E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\sground.xnb
+E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\tree.xnb
+E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\tiefighter.xnb
+E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\ship.xnb
+E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\stars.xnb
+E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\tank.xnb
+E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\rockie_0.xnb
+E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\bark2_0.xnb
+E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatierear_0.xnb
+E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatiefront_0.xnb
+E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatietop_0.xnb
+E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\3D Free Roam.dll
+E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\3D Free Roam.pdb
+E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\3D Free Roam.dll
+E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\3D Free Roam.pdb
+E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\AppManifest.xaml
+E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\WMAppManifest.xml.g
+E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\WMAppManifest.xml
+E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\3D Free Roam.xap
+E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\XapCacheFile.xml
+E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\3D Free Roam.xap
+E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\XapCacheFile.xml
+E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\AppManifest.xaml
+E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\WMAppManifest.xml.g
+E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\

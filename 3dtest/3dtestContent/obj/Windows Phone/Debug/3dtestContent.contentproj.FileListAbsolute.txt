@@ -1,0 +1,11 @@
+K:\XNA\Windows Phone Projects\3dtest\3dtest\3dtestContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+E:\XNA\Windows Phone Projects\3dtest\3dtest\3dtestContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+E:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtestContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+D:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtestContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+K:\XNA\Windows Phone Projects\3D Game free roam\3dtest\3dtestContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+K:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtestContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+E:\XNA\Windows Phone Examples\3D Game free roam\3dtest\3dtestContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+E:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtestContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+G:\XNA\Media Files\XNA4 Code Samples\Windows Phone Examples\3D Game free roam\3dtest\3dtestContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+\\Ws1013\student big files\GameDev\XNA\Examples\HND examples\Windows Phone Examples\3D Game free roam\3dtest\3dtestContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+E:\Windows Phone Examples\3D Game free roam\3dtest\3dtestContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache

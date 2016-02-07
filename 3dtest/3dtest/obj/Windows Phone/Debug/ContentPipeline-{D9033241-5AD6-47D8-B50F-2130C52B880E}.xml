@@ -1,0 +1,497 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>quartz4.png</Source>
+      <Name>quartz4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\quartz4.xnb</Output>
+      <Time>2012-01-22T17:45:16+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Background for Menus.jpg</Source>
+      <Name>Background for Menus</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Background for Menus.xnb</Output>
+      <Time>2012-01-22T17:56:08+00:00</Time>
+    </Item>
+    <Item>
+      <Source>bark2.jpg</Source>
+      <Name>bark2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\bark2.xnb</Output>
+      <Time>2012-01-22T17:56:08+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Exit-Normal.png</Source>
+      <Name>Exit-Normal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Exit-Normal.xnb</Output>
+      <Time>2012-01-22T17:56:08+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Exit-Selected.png</Source>
+      <Name>Exit-Selected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Exit-Selected.xnb</Output>
+      <Time>2012-01-22T17:56:08+00:00</Time>
+    </Item>
+    <Item>
+      <Source>High-Score-Normal.png</Source>
+      <Name>High-Score-Normal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\High-Score-Normal.xnb</Output>
+      <Time>2012-01-22T17:56:08+00:00</Time>
+    </Item>
+    <Item>
+      <Source>High-Score-Selected.png</Source>
+      <Name>High-Score-Selected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\High-Score-Selected.xnb</Output>
+      <Time>2012-01-22T17:56:08+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Options-Normal.png</Source>
+      <Name>Options-Normal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Options-Normal.xnb</Output>
+      <Time>2012-01-22T17:56:08+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Options-Selected.png</Source>
+      <Name>Options-Selected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Options-Selected.xnb</Output>
+      <Time>2012-01-22T17:56:08+00:00</Time>
+    </Item>
+    <Item>
+      <Source>rockie.jpg</Source>
+      <Name>rockie</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\rockie.xnb</Output>
+      <Time>2012-01-22T17:56:08+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Start-Normal.png</Source>
+      <Name>Start-Normal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Start-Normal.xnb</Output>
+      <Time>2012-01-22T17:56:08+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Start-Selected.png</Source>
+      <Name>Start-Selected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\Start-Selected.xnb</Output>
+      <Time>2012-01-22T17:56:08+00:00</Time>
+    </Item>
+    <Item>
+      <Source>X-Games-Cursor-Highlight.png</Source>
+      <Name>X-Games-Cursor-Highlight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\X-Games-Cursor-Highlight.xnb</Output>
+      <Time>2012-01-22T17:56:08+00:00</Time>
+    </Item>
+    <Item>
+      <Source>X-Games-Cursor.png</Source>
+      <Name>X-Games-Cursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\X-Games-Cursor.xnb</Output>
+      <Time>2012-01-22T17:56:08+00:00</Time>
+    </Item>
+    <Item>
+      <Source>xnatiefront.jpg</Source>
+      <Name>xnatiefront</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatiefront.xnb</Output>
+      <Time>2012-01-22T18:02:38+00:00</Time>
+    </Item>
+    <Item>
+      <Source>xnatierear.jpg</Source>
+      <Name>xnatierear</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatierear.xnb</Output>
+      <Time>2012-01-22T18:02:38+00:00</Time>
+    </Item>
+    <Item>
+      <Source>xnatietop.jpg</Source>
+      <Name>xnatietop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatietop.xnb</Output>
+      <Time>2012-01-22T18:02:38+00:00</Time>
+    </Item>
+    <Item>
+      <Source>down.png</Source>
+      <Name>down</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\down.xnb</Output>
+      <Time>2012-01-22T18:18:04+00:00</Time>
+    </Item>
+    <Item>
+      <Source>left.png</Source>
+      <Name>left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\left.xnb</Output>
+      <Time>2012-01-22T18:18:04+00:00</Time>
+    </Item>
+    <Item>
+      <Source>right.png</Source>
+      <Name>right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\right.xnb</Output>
+      <Time>2012-01-22T18:18:04+00:00</Time>
+    </Item>
+    <Item>
+      <Source>up.png</Source>
+      <Name>up</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\up.xnb</Output>
+      <Time>2012-01-22T18:18:04+00:00</Time>
+    </Item>
+    <Item>
+      <Source>exit.png</Source>
+      <Name>exit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\exit.xnb</Output>
+      <Time>2012-06-20T20:30:50+01:00</Time>
+    </Item>
+    <Item>
+      <Source>highscore.png</Source>
+      <Name>highscore</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\highscore.xnb</Output>
+      <Time>2012-06-20T20:30:50+01:00</Time>
+    </Item>
+    <Item>
+      <Source>options.png</Source>
+      <Name>options</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\options.xnb</Output>
+      <Time>2012-06-20T20:30:50+01:00</Time>
+    </Item>
+    <Item>
+      <Source>player1.png</Source>
+      <Name>player1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\player1.xnb</Output>
+      <Time>2012-06-20T20:30:50+01:00</Time>
+    </Item>
+    <Item>
+      <Source>lamppost.x</Source>
+      <Name>lamppost</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\lamppost.xnb</Output>
+      <Time>2012-01-22T17:56:08+00:00</Time>
+      <Dependency>
+        <Key>E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\lamppost_0.xml</Key>
+        <Value>2014-02-06T11:53:32+00:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>sground.x</Source>
+      <Name>sground</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\sground.xnb</Output>
+      <Time>2012-01-22T17:56:08+00:00</Time>
+      <Dependency>
+        <Key>E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\sground_0.xml</Key>
+        <Value>2014-02-06T11:53:32+00:00</Value>
+      </Dependency>
+      <Request>E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\rockie_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>tree.x</Source>
+      <Name>tree</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\tree.xnb</Output>
+      <Time>2012-01-22T17:56:08+00:00</Time>
+      <Dependency>
+        <Key>E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\tree_0.xml</Key>
+        <Value>2014-02-06T11:53:34+00:00</Value>
+      </Dependency>
+      <Request>E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\bark2_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>tiefighter.x</Source>
+      <Name>tiefighter</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\tiefighter.xnb</Output>
+      <Time>2012-01-22T18:02:02+00:00</Time>
+      <Dependency>
+        <Key>E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\tiefighter_0.xml</Key>
+        <Value>2014-02-06T11:53:34+00:00</Value>
+      </Dependency>
+      <Request>E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatierear_0.xnb</Request>
+      <Request>E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatiefront_0.xnb</Request>
+      <Request>E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatietop_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>ship.fbx</Source>
+      <Name>ship</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\ship.xnb</Output>
+      <Time>2012-01-22T17:56:08+00:00</Time>
+      <Dependency>
+        <Key>E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\ship_0.xml</Key>
+        <Value>2014-02-06T11:53:34+00:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>stars.fbx</Source>
+      <Name>stars</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\stars.xnb</Output>
+      <Time>2012-01-22T17:56:08+00:00</Time>
+      <Dependency>
+        <Key>E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\stars_0.xml</Key>
+        <Value>2014-02-06T11:53:34+00:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>tank.fbx</Source>
+      <Name>tank</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\tank.xnb</Output>
+      <Time>2012-01-22T17:56:08+00:00</Time>
+      <Dependency>
+        <Key>E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\tank_0.xml</Key>
+        <Value>2014-02-06T11:53:34+00:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>lamppost.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\lamppost_0.xml</Output>
+      <Time>2012-01-22T17:56:08+00:00</Time>
+    </Item>
+    <Item>
+      <Source>sground.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\sground_0.xml</Output>
+      <Time>2012-01-22T17:56:08+00:00</Time>
+    </Item>
+    <Item>
+      <Source>rockie.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\rockie_0.xnb</Output>
+      <Time>2012-01-22T17:56:08+00:00</Time>
+    </Item>
+    <Item>
+      <Source>tree.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\tree_0.xml</Output>
+      <Time>2012-01-22T17:56:08+00:00</Time>
+    </Item>
+    <Item>
+      <Source>bark2.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\bark2_0.xnb</Output>
+      <Time>2012-01-22T17:56:08+00:00</Time>
+    </Item>
+    <Item>
+      <Source>tiefighter.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\tiefighter_0.xml</Output>
+      <Time>2012-01-22T18:02:02+00:00</Time>
+    </Item>
+    <Item>
+      <Source>xnatierear.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatierear_0.xnb</Output>
+      <Time>2012-01-22T18:02:38+00:00</Time>
+    </Item>
+    <Item>
+      <Source>xnatiefront.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatiefront_0.xnb</Output>
+      <Time>2012-01-22T18:02:38+00:00</Time>
+    </Item>
+    <Item>
+      <Source>xnatietop.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\xnatietop_0.xnb</Output>
+      <Time>2012-01-22T18:02:38+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ship.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\ship_0.xml</Output>
+      <Time>2012-01-22T17:56:08+00:00</Time>
+    </Item>
+    <Item>
+      <Source>stars.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\stars_0.xml</Output>
+      <Time>2012-01-22T17:56:08+00:00</Time>
+    </Item>
+    <Item>
+      <Source>tank.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\tank_0.xml</Output>
+      <Time>2012-01-22T17:56:08+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{D9033241-5AD6-47D8-B50F-2130C52B880E}</ContentProjectGUID>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>E:\Windows Phone Examples\3D Game free roam\3dtest\3dtestContent\</RootDirectory>
+      <LoggerRootDirectory>E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\</LoggerRootDirectory>
+      <IntermediateDirectory>E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\obj\Windows Phone\Debug\</IntermediateDirectory>
+      <OutputDirectory>E:\Windows Phone Examples\3D Game free roam\3dtest\3dtest\bin\Windows Phone\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-01-18T14:10:08.9070674+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
